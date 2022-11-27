@@ -31,11 +31,11 @@ global.botname = 'NinoXD☆' //ubah jadi nama bot mu, note tanda ' gausah di hap
 global.footer = 'NinoXD☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.premium = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker☆' // ubah aja
-global.ownerr = ['Dani Maker☆'] // ubaha aja
-global.author = 'Dani Maker☆' //ubah aja
+global.owner = ['6281229756808'] // ubah aja pake nomor lu
+global.premium = ['6281229756808'] // ubah aja pake nomor lu
+global.packname = 'NinoXD☆' // ubah aja
+global.ownerr = ['NinoXD☆'] // ubaha aja
+global.author = 'NinoXD☆' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
