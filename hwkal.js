@@ -26,9 +26,9 @@ global.ig = '@hikal857' // ubah aja
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Dani Maker☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'NinoXD☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'NinoXD☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'NinoXD☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
